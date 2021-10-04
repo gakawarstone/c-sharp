@@ -6,7 +6,10 @@ namespace _2._1_hw
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            char key;
+
+            key = Console.ReadKey();
+            Console.WriteLine(Convert.ToChar(Convert.ToInt32(key) + 1));
         }
     }
 }
