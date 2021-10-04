@@ -9,13 +9,13 @@ namespace _2._2
             double a, b;
 
             try {
-              Console.WriteLine("Print a:");
-              a = Convert.ToDouble(Console.ReadLine());
-              Console.WriteLine("Print a:");
-              b = Convert.ToDouble(Console.ReadLine());
-              Console.WriteLine("Answer: " + (a / b));
+                Console.WriteLine("Print a:");
+                a = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Print a:");
+                b = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Answer: " + (a / b));
             } catch {
-              Console.WriteLine("ERRROR");
+                Console.WriteLine("ERRROR");
             }
 
         }
