@@ -8,8 +8,10 @@ namespace _2._1_hw
         {
             char key;
 
-            key = Console.ReadKey();
-            Console.WriteLine(Convert.ToChar(Convert.ToInt32(key) + 1));
+            Console.WriteLine("Write letter: ");
+            key = Convert.ToChar(Console.Read());
+            key = Convert.ToChar(Convert.ToInt32(key) + 1);
+            Console.WriteLine("Next letter is " + key);
         }
     }
 }
