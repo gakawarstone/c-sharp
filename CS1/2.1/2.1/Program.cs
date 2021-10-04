@@ -6,7 +6,11 @@ namespace _2._1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name;
+
+            Console.WriteLine("What's your name?");
+            name = Console.ReadLine();
+            Console.WriteLine("Hello, " + name);
         }
     }
 }
