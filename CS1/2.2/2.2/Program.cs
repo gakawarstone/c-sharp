@@ -6,9 +6,18 @@ namespace _2._2
     {
         static void Main(string[] args)
         {
-            float a, b;
+            double a, b;
 
-            
+            try {
+              Console.WriteLine("Print a:");
+              a = Convert.ToDouble(Console.ReadLine());
+              Console.WriteLine("Print a:");
+              b = Convert.ToDouble(Console.ReadLine());
+            } catch {
+              Console.WriteLine("ERRROR");
+            }
+
+            Console.WriteLine("Answer: " + (a / b))
         }
     }
 }
