@@ -13,11 +13,11 @@ namespace _2._2
               a = Convert.ToDouble(Console.ReadLine());
               Console.WriteLine("Print a:");
               b = Convert.ToDouble(Console.ReadLine());
+              Console.WriteLine("Answer: " + (a / b));
             } catch {
               Console.WriteLine("ERRROR");
             }
 
-            Console.WriteLine("Answer: " + (a / b))
         }
     }
 }
