@@ -38,6 +38,15 @@ namespace _5
             return answ;
         }
 
+        static int Fact_rec(int a)
+        {
+            if (a == 1) {
+                return 1;
+            } else {
+                return a * Fact_rec(a - 1);
+            }
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine(Max_2(2, 3));
@@ -49,6 +58,8 @@ namespace _5
             Console.WriteLine($"{a}:{b}");
 
             Console.WriteLine(Fact(3));
+
+            Console.WriteLine(Fact_rec(3));
         }
     }
 }
