@@ -1,0 +1,14 @@
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\bin\Debug\netcoreapp3.1\system.exe
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\bin\Debug\netcoreapp3.1\system.deps.json
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\bin\Debug\netcoreapp3.1\system.runtimeconfig.json
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\bin\Debug\netcoreapp3.1\system.runtimeconfig.dev.json
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\bin\Debug\netcoreapp3.1\system.dll
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\bin\Debug\netcoreapp3.1\system.pdb
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.csproj.AssemblyReference.cache
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.AssemblyInfoInputs.cache
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.AssemblyInfo.cs
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.dll
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.pdb
+C:\Users\Vanya\source\repos\c-sharp\lab_2\system\system\obj\Debug\netcoreapp3.1\system.genruntimeconfig.cache
