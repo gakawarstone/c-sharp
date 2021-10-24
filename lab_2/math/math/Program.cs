@@ -31,7 +31,7 @@ namespace math
             t21 = 1 / a;
             t22 = Math.Log((1 + Math.Cos(a * x)) / (a*x));
             t2 = t21 * t22;
-
+            
             Console.WriteLine($"t1 = {t1}; t2 = {t2}");
         }
     }
