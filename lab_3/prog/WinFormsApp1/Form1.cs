@@ -34,20 +34,27 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double x, y, z;
-            x = Convert.ToDouble(textBox1.Text);
-            y = Convert.ToDouble(textBox2.Text);
-            z = Convert.ToDouble(textBox3.Text);
+            try
+            {
+                double x, y, z;
+                x = Convert.ToDouble(textBox1.Text);
+                y = Convert.ToDouble(textBox2.Text);
+                z = Convert.ToDouble(textBox3.Text);
 
-            double answ;
-            double[] i = { func(x), y, z };
-            double maxValue = i.Max();
-            double[] a = { func(x), y };
-            double minValue = a.Max();
+                double answ;
+                double[] i = { func(x), y, z };
+                double maxValue = i.Max();
+                double[] a = { func(x), y };
+                double minValue = a.Max();
 
-            answ = maxValue / minValue;
+                answ = (maxValue / minValue) + 5;
 
-            label5.Text = Convert.ToString(answ);
+                label5.Text = Convert.ToString(answ);
+
+            } catch
+            {
+                label5.Text = "ERRROR";
+            }
         }
     }
 }
