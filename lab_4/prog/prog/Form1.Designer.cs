@@ -67,9 +67,9 @@ namespace WinFormsApp1
             this.label2.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label2.Location = new System.Drawing.Point(12, 59);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(109, 25);
+            this.label2.Size = new System.Drawing.Size(111, 25);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Введите xk:";
+            this.label2.Text = "Введите Xk:";
             // 
             // textBox2
             // 
@@ -85,9 +85,9 @@ namespace WinFormsApp1
             this.label3.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label3.Location = new System.Drawing.Point(12, 110);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(111, 25);
+            this.label3.Size = new System.Drawing.Size(113, 25);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Введите dx:";
+            this.label3.Text = "Введите Dx:";
             // 
             // textBox3
             // 
@@ -121,7 +121,7 @@ namespace WinFormsApp1
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(12, 385);
+            this.button1.Location = new System.Drawing.Point(12, 393);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(259, 46);
             this.button1.TabIndex = 8;
@@ -132,7 +132,7 @@ namespace WinFormsApp1
             // textBox4
             // 
             this.textBox4.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox4.Location = new System.Drawing.Point(120, 162);
+            this.textBox4.Location = new System.Drawing.Point(120, 159);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(151, 32);
             this.textBox4.TabIndex = 9;
@@ -143,14 +143,15 @@ namespace WinFormsApp1
             this.label6.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label6.Location = new System.Drawing.Point(12, 238);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(0, 25);
+            this.label6.Size = new System.Drawing.Size(20, 25);
             this.label6.TabIndex = 10;
+            this.label6.Text = "_";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(283, 443);
+            this.ClientSize = new System.Drawing.Size(283, 451);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.button1);

@@ -27,10 +27,9 @@ namespace WinFormsApp1
 
         }
 
-        public double func(double x, double a)
+        public double func(double x)
         {
-            double b = 2;
-            return x + Math.Sqrt(Math.Abs(Math.Pow(x, 3) + a - b*Math.Exp(x)));
+            return x * x;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -44,17 +43,12 @@ namespace WinFormsApp1
                 a = Convert.ToDouble(textBox4.Text);
 
                 double x = x0;
-                while (x <= (xk + dx / 2))
-                {
-                    double y = func(x, a);
-                    label6.Text += $"x = {x};\ny={y}\n";
 
-                    x = x + dx;
-                }
+                label5.Text = Convert.ToString(x0);
 
             } catch
             {
-                label6.Text = "ERRROR";
+                label5.Text = "ERRROR";
             }
         }
     }
