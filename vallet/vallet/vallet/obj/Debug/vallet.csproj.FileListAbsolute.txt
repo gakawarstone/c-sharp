@@ -1,0 +1,15 @@
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\bin\Debug\vallet.exe.config
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\bin\Debug\vallet.exe
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\bin\Debug\vallet.pdb
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.csproj.AssemblyReference.cache
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.Form1.resources
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.Properties.Resources.resources
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.csproj.GenerateResource.cache
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.csproj.CopyComplete
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.exe
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.pdb
+C:\Users\Vanya\source\repos\c-sharp\vallet\vallet\vallet\obj\Debug\vallet.Form2.resources
